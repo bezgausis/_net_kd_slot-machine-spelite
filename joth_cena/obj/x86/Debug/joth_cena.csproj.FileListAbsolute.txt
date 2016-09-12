@@ -1,0 +1,48 @@
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\joth_cena.exe
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\joth_cena.pdb
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\joth_cena.csproj.GenerateResource.Cache
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\joth_cena.exe
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\joth_cena.pdb
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\joth_cena.csprojResolveAssemblyReference.cache
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\slotmachine.Properties.Resources.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\slotmachine.db_rezult.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\slotmachine.game.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\db.mdb
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\joth_cena.exe.config
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\slotmachine.Form1.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\itextsharp.dll
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\itextsharp.xtra.dll
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\itextsharp.xml
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\db.mdb
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\joth_cena.exe.config
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\joth_cena.exe
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\joth_cena.pdb
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\itextsharp.dll
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\itextsharp.pdfa.dll
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\itextsharp.xtra.dll
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Debug\itextsharp.xml
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\joth_cena.csprojResolveAssemblyReference.cache
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\slotmachine.Form1.resources
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\slotmachine.game.resources
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\slotmachine.db_rezult.resources
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\slotmachine.Properties.Resources.resources
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\joth_cena.csproj.GenerateResource.Cache
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\joth_cena.exe
+F:\2015_3kurss_rudens\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Debug\joth_cena.pdb
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\bin\Debug\joth_cena.exe.config
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\obj\x86\Debug\joth_cena.exe
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\obj\x86\Debug\joth_cena.pdb
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\bin\Debug\db.mdb
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\bin\Debug\joth_cena.exe
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\bin\Debug\joth_cena.pdb
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\bin\Debug\itextsharp.dll
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\bin\Debug\itextsharp.pdfa.dll
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\bin\Debug\itextsharp.xtra.dll
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\bin\Debug\itextsharp.xml
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\obj\x86\Debug\joth_cena.csprojResolveAssemblyReference.cache
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\obj\x86\Debug\slotmachine.Form1.resources
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\obj\x86\Debug\slotmachine.game.resources
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\obj\x86\Debug\slotmachine.db_rezult.resources
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\obj\x86\Debug\slotmachine.Properties.Resources.resources
+C:\Users\deniv\Documents\Visual Studio 2015\Projects\joth_cena\joth_cena\obj\x86\Debug\joth_cena.csproj.GenerateResource.Cache

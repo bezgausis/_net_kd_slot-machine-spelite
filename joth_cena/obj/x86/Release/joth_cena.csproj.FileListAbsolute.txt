@@ -1,0 +1,13 @@
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Release\joth_cena.exe
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\bin\Release\joth_cena.pdb
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\WindowsFormsApplication1.discControl.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\joth_cena.csproj.GenerateResource.Cache
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\joth_cena.exe
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\joth_cena.pdb
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\slotmachine.discControl.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\slotmachine.Properties.Resources.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\joth_cena.csprojResolveAssemblyReference.cache
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\slotmachine.Form1.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\slotmachine.game.resources
+C:\Users\Denz\kursi\dotNet\john cena\joth_cena\joth_cena\obj\x86\Release\slotmachine.db_rezult.resources
